@@ -10,3 +10,5 @@ new pgn where only white moves first, etc.
 
 # Usage
 python pgn_filter.py --color=b --input-pgn=games.pgn --output-pgn=output.pgn
+
+Note use --color=b for black games and --color=w for white games
