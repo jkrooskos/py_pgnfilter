@@ -2,7 +2,7 @@
 
 Sample usage:
 
-python filter_pgn_by_color --color=black input.pgn output.pgn
+python pgn_filter.py --color=b --input-pgn=games.pgn --output-pgn=output.pgn
 """
 
 import sys
